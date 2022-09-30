@@ -18,7 +18,8 @@
         android:textStyle="bold"
         android:layout_marginTop="10dp"
         android:layout_marginLeft="10dp"
-        android:layout_marginRight="10dp"/>
+        android:layout_marginRight="10dp"
+        android:textColor="@color/black"/>
 
     <EditText
         android:id="@+id/etID"
@@ -29,7 +30,8 @@
         android:layout_marginTop="10dp"
         android:layout_marginLeft="10dp"
         android:layout_marginRight="10dp"
-        android:inputType="number"/>
+        android:inputType="number"
+        android:textColor="@color/black"/>
 
     <TextView
         android:id="@+id/tvNombre"
@@ -40,7 +42,8 @@
         android:textStyle="bold"
         android:layout_marginTop="10dp"
         android:layout_marginLeft="10dp"
-        android:layout_marginRight="10dp"/>
+        android:layout_marginRight="10dp"
+        android:textColor="@color/black"/>
 
     <EditText
         android:id="@+id/etNombreProd"
@@ -50,6 +53,7 @@
         android:layout_marginTop="10dp"
         android:layout_marginLeft="10dp"
         android:layout_marginRight="10dp"
+        android:textColor="@color/black"
         />
 
     <TextView
@@ -61,7 +65,8 @@
         android:textStyle="bold"
         android:layout_marginTop="10dp"
         android:layout_marginLeft="10dp"
-        android:layout_marginRight="10dp"/>
+        android:layout_marginRight="10dp"
+        android:textColor="@color/black"/>
 
     <EditText
         android:id="@+id/etPrecio"
@@ -71,7 +76,8 @@
         android:layout_marginTop="10dp"
         android:layout_marginLeft="10dp"
         android:layout_marginRight="10dp"
-        android:inputType="numberDecimal"/>
+        android:inputType="numberDecimal"
+        android:textColor="@color/black"/>
 
 <LinearLayout
     android:layout_width="match_parent"
